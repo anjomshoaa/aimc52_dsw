@@ -1,1 +1,1 @@
-# aimc52_dsw
+# Data Science Workshop: Session 1
